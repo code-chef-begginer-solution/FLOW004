@@ -5,7 +5,7 @@ size_t sum_of_digits(const size_t& number);
 
 int main(int argc, char* argv[]) {
 
-    /* fast inout-output */
+    /* fast input-output */
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(nullptr);
 
